@@ -61,10 +61,10 @@ Key Insights
 
 Repository Contents
 
-- Healthcare_Analytics_Dashboard.pbix — Power BI report.
-- healthcare_dataset.csv — Dataset used for analysis.
-- images — Dashboard screenshots.
-- README.md — Project documentation.
+- Healthcare_Analytics_Dashboard.pbix: Power BI report.
+- healthcare_dataset.csv: Dataset used for analysis.
+- images: Dashboard screenshots.
+- README.md: Project documentation.
 
 Preview
 
